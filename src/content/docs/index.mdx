@@ -1,36 +1,37 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: 轻易表单 <br> 轻松 容易 自动填写表单
+description: 助你轻松工作一臂之力！助你轻松工作效率翻倍！
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: 助你轻松工作一臂之力！助你轻松工作效率翻倍！
   image:
-    file: ../../assets/houston.webp
-  actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+    file: ../../assets/qingyi-logo2.png
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+import { LinkButton } from '@astrojs/starlight/components';
 
-## Next steps
+## 下载使用
+<CardGrid >
+  <Card>
+  <LinkButton href="/zh-cn/getting-started/" icon="seti:windows">windows x64</LinkButton>
+  <LinkButton href="/zh-cn/getting-started/" icon="apple">苹果mac</LinkButton>
+  </Card>
+</CardGrid>
+
+## 产品特性
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+  <Card title="使用简单" icon="pencil">
+    像使用浏览器标签页一样，可以自由添加网址，并自动存入历史记录。还可以输入复制文案自动提取连接
+  </Card>
+	<Card title="预设项简单" icon="seti:config">
+		预设项采用关键字模糊匹配，甚至只需要填写一个预设，就能满足所有表单
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="快速填充" icon="rocket">
+		支持勾选多个预设项，点击连接一键填充
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+  <Card title="界面精美" icon="starlight">
+    拥有深浅色主题，满足你不同的视觉要求
+  </Card>
 </CardGrid>
