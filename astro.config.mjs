@@ -16,16 +16,23 @@ export default defineConfig({
 			// },
 			sidebar: [
 				{
-					label: 'Guides',
+					label: '轻易表单',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: '软件介绍', slug: 'guides/example' },
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+        {
+          label: '发布日志',
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: '版本记录', slug: 'reference/example' },
+          ],
+        },
+				// {
+				// 	label: '发布日志',
+				// 	autogenerate: { directory: 'reference' },
+				// },
 			],
 		}),
 	],
