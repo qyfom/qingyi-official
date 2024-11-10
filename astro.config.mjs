@@ -7,10 +7,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: '轻易表单',
-      // logo: {
-      //   light: './src/assets/light-logo.svg',
-      //   dark: './src/assets/dark-logo.svg',
-      // },
+      logo: {
+        light: './src/assets/logo_256x256.png',
+        dark: './src/assets/logo_256x256.png',
+      },
 			// social: {
 			// 	github: 'https://github.com/withastro/starlight',
 			// },
