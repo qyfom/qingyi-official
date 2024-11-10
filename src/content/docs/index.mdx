@@ -10,18 +10,17 @@ hero:
     - text: 产品简介
       link: /guides/example/
       icon: right-arrow
+      variant: secondary
+    - text: 下载windows
+      link: /download/qingyi-1.0.0.exe
+      icon: seti:windows
+    - text: 下载苹果Mac
+      link: /download/qingyi-1.0.0.dmg
+      icon: apple
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 import { LinkButton } from '@astrojs/starlight/components';
-
-## 下载使用
-<CardGrid >
-  <Card>
-  <LinkButton href="/download/qingyi-1.0.0.exe" icon="seti:windows">windows x64</LinkButton>
-  <LinkButton href="/download/qingyi-1.0.0.dmg" icon="apple">苹果Mac</LinkButton>
-  </Card>
-</CardGrid>
 
 ## 产品特性
 
