@@ -1,0 +1,32 @@
+---
+title: 产品功能特性
+description: 软件/产品介绍
+
+---
+
+import { Image } from 'astro:assets';
+import { LinkButton } from '@astrojs/starlight/components';
+
+
+
+### 简单易用
+##### 像使用浏览器一样输入网址即可，自动存储历史记录。还支持粘贴复杂文案自动提取连接
+<Image src={import('./home.png')} alt="My example image" />
+<Image src={import('./history.png')} alt="My example image" />
+
+### 快速填充
+##### 支持勾选多个预设项，点击连接一键填充，支持打开多个标签页
+<Image src={import('./preset.png')} alt="My example image" />
+
+### 预设简单
+##### 支持批量录入，预设项采用关键字模糊匹配，甚至只需要填写一个预设，就能满足所有表单
+<Image src={import('./muti.png')} alt="My example image" />
+
+### 界面精美
+##### 拥有深浅色主题，满足你不同的视觉要求
+<Image src={import('./dark.png')} alt="My example image" />
+
+### 立即下载
+
+<LinkButton href="/download/qingyi-1.0.0.exe" icon="seti:windows">windows x64</LinkButton>
+<LinkButton href="/download/qingyi-1.0.0.dmg" icon="apple">苹果Mac</LinkButton>

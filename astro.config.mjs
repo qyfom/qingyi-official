@@ -19,7 +19,7 @@ export default defineConfig({
 					label: '轻易表单',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: '软件介绍', slug: 'guides/example' },
+						{ label: '产品介绍', slug: 'guides/example' },
 					],
 				},
         {
