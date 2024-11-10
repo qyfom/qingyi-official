@@ -20,6 +20,7 @@ hero:
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Image } from 'astro:assets';
 
 ## 产品特性
 
@@ -37,3 +38,7 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
     拥有深浅色主题，满足你不同的视觉要求
   </Card>
 </CardGrid>
+
+## 产品截图
+<Image src={import('./guides/home.png')} alt="My example image" />
+<Image src={import('./guides/dark.png')} alt="My example image" />
