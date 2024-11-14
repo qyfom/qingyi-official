@@ -7,6 +7,12 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: '轻易表单',
+      locales: {
+        root: {
+          label: '简体中文',
+          lang: 'zh-CN',
+        },
+      },
       logo: {
         light: './src/assets/logo_256x256.png',
         dark: './src/assets/logo_256x256.png',
