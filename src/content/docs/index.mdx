@@ -29,7 +29,7 @@ hero:
         download: qingyi-1.0.0-intel.dmg
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, Aside } from '@astrojs/starlight/components';
 import { Image } from 'astro:assets';
 
 ## 产品特性
@@ -55,3 +55,8 @@ import { Image } from 'astro:assets';
 ## 产品截图
 <Image src={import('./guides/home.png')} alt="My example image" />
 <Image src={import('./guides/dark.png')} alt="My example image" />
+
+<div style='width: 100%; text-align: center;margin-top: 50px;'>
+  <p><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024350286号-1</a></p>
+</div>
+
