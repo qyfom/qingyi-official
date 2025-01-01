@@ -35,6 +35,13 @@ export default defineConfig({
             { label: '版本记录', slug: 'reference/example' },
           ],
         },
+        {
+          label: '帮助文档',
+          items: [
+            // Each item here is one entry in the navigation menu.
+            { label: '帮助文档', slug: 'help/example' },
+          ],
+        },
 				// {
 				// 	label: '发布日志',
 				// 	autogenerate: { directory: 'reference' },
