@@ -26,6 +26,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: '产品介绍', slug: 'guides/example' },
+						{ label: '手机版介绍', slug: 'guides/mobile' },
 					],
 				},
         {

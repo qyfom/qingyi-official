@@ -5,7 +5,19 @@ description: 版本记录
 
 欢迎使用轻易表单.
 
-## 版本
+## 手机版本
+
+> v1.0.0 2025-01-01</br>
+> > 🎉手机版1.0正式发布</br>
+>><a href="/download/qingyi-1.0.0.apk" download>安卓版 下载</a></br>
+
+
+## pc版本
+
+> v1.0.2 2025-01-01</br>
+> 📣新增兼容报名工具表单</br>
+>><a href="/download/qingyi-1.0.2.exe" download>Windows (x64) 下载</a></br>
+>><a href="/download/qingyi-1.0.2.dmg" download>MacOS (Silicon) 下载</a></br>
 
 > v1.0.1 2024-12-10</br>
 > 📣新增提交记录功能</br>

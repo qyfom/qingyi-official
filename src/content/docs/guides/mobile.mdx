@@ -1,0 +1,38 @@
+---
+title: 手机版介绍
+description: 软件/手机版介绍/功能特性
+
+---
+
+import { Image } from 'astro:assets';
+import { LinkButton } from '@astrojs/starlight/components';
+
+##### 主页
+<Image src={import('./mobile/home.png')} alt="My example image" />
+<Image src={import('./mobile/empty.png')} alt="My example image" />
+
+##### 导航
+<Image src={import('./mobile/leftside.png')} alt="My example image" />
+
+##### 预设项
+<Image src={import('./mobile/preset.png')} alt="My example image" />
+<Image src={import('./mobile/addpreset.png')} alt="My example image" />
+
+##### 历史记录
+<Image src={import('./mobile/history.png')} alt="My example image" />
+
+##### 提交记录
+<Image src={import('./mobile/submit.png')} alt="My example image" />
+
+##### 快速填充
+<Image src={import('./mobile/quick.png')} alt="My example image" />
+
+##### 登录
+<Image src={import('./mobile/login.png')} alt="My example image" />
+
+### 立即下载
+
+<LinkButton href="/download/qingyi-1.0.0.apk" download="qingyi-1.0.0.apk">安卓版 下载</LinkButton><br/>
+<LinkButton href="/download/qingyi-1.0.2.exe" icon="seti:windows" download="qingyi-1.0.2.exe">Windows (x64) 下载</LinkButton><br/>
+<LinkButton href="/download/qingyi-1.0.2.dmg" icon="apple" download="qingyi-1.0.2.dmg">MacOS (Silicon) 下载</LinkButton>
+<LinkButton href="/download/qingyi-1.0.0-intel.dmg" icon="apple" download="qingyi-1.0.0-intel.dmg">MacOS (Intel) 下载</LinkButton>
