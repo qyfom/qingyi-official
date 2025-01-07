@@ -7,6 +7,12 @@ description: 版本记录
 
 ## 手机版本
 
+
+> v1.0.1 2025-01-07</br>
+> > 新增悬浮挂件功能，粘贴网址操作更简便</br>
+>><a href="/download/qingyi-1.0.1.apk" download>安卓版 下载</a></br>
+
+
 > v1.0.0 2025-01-01</br>
 > > 🎉手机版1.0正式发布</br>
 >><a href="/download/qingyi-1.0.0.apk" download>安卓版 下载</a></br>
