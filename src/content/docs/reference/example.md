@@ -23,6 +23,11 @@ description: 版本记录
 
 ## pc版本
 
+> v1.0.3, 2025-01-17</br>
+> 📣优化体验</br>
+>><a href="/download/qingyi-1.0.3.exe" download>Windows (x64) 下载</a></br>
+>><a href="/download/qingyi-1.0.3.dmg" download>MacOS (Silicon) 下载</a></br>
+
 > v1.0.2, 2025-01-01</br>
 > 📣新增兼容报名工具表单</br>
 >><a href="/download/qingyi-1.0.2.exe" download>Windows (x64) 下载</a></br>
