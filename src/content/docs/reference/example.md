@@ -6,7 +6,7 @@ description: 版本记录
 欢迎使用轻易表单.
 
 ## 手机版本
-> v1.0.2, 2025-01-22</br>
+> v1.0.3, 2025-01-22</br>
 > > 🛠️修复了一些BUG</br>
 > >><a href="/download/qingyi-1.0.3.apk" download>安卓版 下载</a></br>
 
