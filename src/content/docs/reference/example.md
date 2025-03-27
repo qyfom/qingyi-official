@@ -27,31 +27,22 @@ description: 版本记录
 
 
 ## pc版本
+> v1.0.5, 2025-03-27</br>
+> > 🛠️修复了一些BUG</br>
+>><a href="/download/qingyi-1.0.5.exe" download>Windows (x64) 下载</a></br>
+>><a href="/download/qingyi-1.0.5.dmg" download>MacOS (Silicon) 下载</a></br>
+>><a href="/download/qingyi-1.0.4-intel.dmg" download>MacOS (Intel) 下载</a>
 
 > v1.0.4, 2025-01-21</br>
 > 📣支持打开预设项详情</br>
->><a href="/download/qingyi-1.0.4.exe" download>Windows (x64) 下载</a></br>
->><a href="/download/qingyi-1.0.4.dmg" download>MacOS (Silicon) 下载</a></br>
->><a href="/download/qingyi-1.0.4-intel.dmg" download>MacOS (Intel) 下载</a>
 
 > v1.0.3, 2025-01-17</br>
 > 📣优化体验</br>
->><a href="/download/qingyi-1.0.3.exe" download>Windows (x64) 下载</a></br>
->><a href="/download/qingyi-1.0.3.dmg" download>MacOS (Silicon) 下载</a></br>
 
 > v1.0.2, 2025-01-01</br>
 > 📣新增兼容报名工具表单</br>
->><a href="/download/qingyi-1.0.2.exe" download>Windows (x64) 下载</a></br>
->><a href="/download/qingyi-1.0.2.dmg" download>MacOS (Silicon) 下载</a></br>
->><a href="/download/qingyi-1.0.2-intel.dmg" download>MacOS (Intel) 下载</a>
 
 > v1.0.1, 2024-12-10</br>
 > 📣新增提交记录功能</br>
->><a href="/download/qingyi-1.0.1.exe" download>Windows (x64) 下载</a></br>
->><a href="/download/qingyi-1.0.1.dmg" download>MacOS (Silicon) 下载</a></br>
-
 
 > v1.0.0 2024-11-10</br>
->><a href="/download/qingyi-1.0.0.exe" download>Windows (x64) 下载</a></br>
->><a href="/download/qingyi-1.0.0.dmg" download>MacOS (Silicon) 下载</a></br>
->><a href="/download/qingyi-1.0.2-intel.dmg" download>MacOS (Intel) 下载</a>
