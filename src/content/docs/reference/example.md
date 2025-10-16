@@ -33,13 +33,15 @@ description: 版本记录
 ## pc版本
 > v1.0.6, 2025-10-16</br>
 > > 🛠️修复了一些BUG</br>
+
+>><a href="/download/qingyi-1.0.6.exe" download>Windows (x64) 下载</a></br>
+>><a href="/download/qingyi-1.0.6.dmg" download>MacOS (Silicon) 下载</a></br>
 >><a href="/download/qingyi-1.0.6-intel.dmg" download>MacOS (Intel) 下载</a>
 
 
 > v1.0.5, 2025-03-27</br>
 > > 🛠️修复了一些BUG</br>
->><a href="/download/qingyi-1.0.5.exe" download>Windows (x64) 下载</a></br>
->><a href="/download/qingyi-1.0.5.dmg" download>MacOS (Silicon) 下载</a></br>
+
 
 > v1.0.4, 2025-01-21</br>
 > 📣支持打开预设项详情</br>
